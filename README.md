@@ -7,4 +7,4 @@ computer store where you can personalize your computer adding:
 - SSD
 - RAM
 - Liquid refrigeration<br>
-also you can create peripherals, like mouse, keyboards, screens to add to the combo of products.
+<p>also you can create peripherals, like mouse, keyboards, screens to add to the combo of products.
